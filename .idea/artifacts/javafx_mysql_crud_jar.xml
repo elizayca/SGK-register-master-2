@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javafx-mysql-crud:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javafx_mysql_crud_jar</output-path>
+    <root id="archive" name="javafx-mysql-crud.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="javafx-mysql-crud" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/javafx.web.jar" path-in-jar="/" />
+      <element id="library" level="project" name="dbunit-2.7.0" />
+      <element id="library" level="project" name="javafx.graphics" />
+      <element id="library" level="project" name="junit-4.13" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javafx.graphics">
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx-swt.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.base.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.controls.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.fxml.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.graphics.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.media.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.swing.jar" />
+    <archive path="C:/Users/PC/Desktop/jarfiles/javafx.web.jar" />
+  </library>
+</eclipse-userlibraries>
+
