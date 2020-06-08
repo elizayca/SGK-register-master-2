@@ -64,7 +64,7 @@
             <Button fx:id="deleteButton" mnemonicParsing="false" onAction="#deleteButton" prefHeight="30.0" prefWidth="67.0" style="-fx-background-color: #2E8BC0;" text="Sil" textFill="WHITE" />
             <ImageView fitHeight="30.0" fitWidth="39.0" onMousePressed="#ClearButton" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@/src/broom (1).png" />
+                  <Image url="" />
                </image>
             </ImageView>
          </children>
@@ -84,7 +84,7 @@
          <children>
             <ImageView fx:id="image1" fitHeight="32.0" fitWidth="37.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@/src/loupe.png" />
+                  <Image url="" />
                </image></ImageView>
 
             <TextField fx:id="filteredField" nodeOrientation="LEFT_TO_RIGHT" onAction="#Filtering" prefHeight="30.0" prefWidth="569.0">

@@ -114,11 +114,11 @@ public class MainController implements Initializable {
 
     @FXML
     public void insertButton() {
-      insert(Integer.parseInt(idField.getText()),nameField.getText(),surnameField.getText(),departmentField.getText(),mailField.getText(),datePicker.getValue(),datePicker2.getValue());
+      insert(Integer.parseInt(idField.getText()),nameField.getText(),surnameField.getText(),departmentField.getText(),mailField.getText(),datePicker.getValue().toString(),datePicker2.getValue().toString());
       showRegisters();
     }
 
-    public void insert(int id, String name, String surname, String department, String mail, LocalDate date1, LocalDate date2){
+    public void insert(int id, String name, String surname, String department, String mail, String date1, String date2){
         idField.getText().equals(id);
         nameField.getText().equals(name);
         surnameField.getText().equals(surname);
